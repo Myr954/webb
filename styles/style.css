@@ -1,0 +1,27 @@
+body{
+    background-image: url("/Country\ side.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+border-radius: 20px;
+font-family: 'Lobster', cursive;
+}
+
+.Rubrik{margin-left: 700px;
+width: 1000px;
+height: 100px;
+font-size: 50px;
+color: white;}
+
+.Arbete{
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 25%;
+}
+.beskrivning{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    margin-top: 5px;
+}
